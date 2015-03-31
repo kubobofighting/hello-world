@@ -1,4 +1,4 @@
 # hello-world
-just for test
+It's a real project now.
 
-Have fun!
+Have a fun!
