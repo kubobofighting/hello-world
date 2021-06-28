@@ -2,7 +2,6 @@
 
 func Hello():
 	print()
-	println()
 
 func main():
 	os.system()
